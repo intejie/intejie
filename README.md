@@ -12,7 +12,7 @@
 📫 How to reach me: [t.me/intejie](https://t.me/intejie)<br />
 
 **I know a bit about:**
-
+<p>
 <img width="5%" src="https://skillicons.dev/icons?i=golang">
 <img width="5%" src="https://skillicons.dev/icons?i=typescript">
 <br />
@@ -33,3 +33,4 @@
 <img width="5%" src="https://skillicons.dev/icons?i=kafka">
 <img width="5%" src="https://skillicons.dev/icons?i=grafana">
 <img width="5%" src="https://skillicons.dev/icons?i=prometheus">
+</p>
