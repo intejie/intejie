@@ -1,6 +1,6 @@
 ## 👋🏻 Hello, I'm Dmitry!
 
-<img width="39%" align="right" alt="github.com/intejie" src="./.assets/0-0.svg" />
+<img width="39%" align="right" alt="github.com/intejie" src="./.assets/0_0.svg" />
 
 [![t.me/intejie](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/intejie)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrypetrovichev/)
