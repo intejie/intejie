@@ -1,4 +1,4 @@
-## 👋🏻 Hello, I'm Dmitry!
+## 👋🏻 Hi there!
 
 <img width="39%" align="right" alt="github.com/intejie" src="./.assets/0_0.svg" />
 
