@@ -13,7 +13,7 @@
 
 **I know a bit about:**
 <p>
-<img width="5%" src="https://skillicons.dev/icons?i=golang">
+<img width="5%" src="https://skillicons.dev/icons?i=python">
 <img width="5%" src="https://skillicons.dev/icons?i=typescript">
 <br />
 <img width="5%" src="https://skillicons.dev/icons?i=react">
