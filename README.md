@@ -13,8 +13,9 @@
 
 **I know a bit about:**
 <p>
-<img width="5%" src="https://skillicons.dev/icons?i=python">
+<img width="5%" src="https://skillicons.dev/icons?i=go">
 <img width="5%" src="https://skillicons.dev/icons?i=typescript">
+<img width="5%" src="https://skillicons.dev/icons?i=python">
 <br />
 <img width="5%" src="https://skillicons.dev/icons?i=react">
 <img width="5%" src="https://skillicons.dev/icons?i=next">
